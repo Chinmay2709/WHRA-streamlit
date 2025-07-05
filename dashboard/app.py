@@ -287,7 +287,11 @@ with col4:
         Therefore, here are the factors required for our analysis:
 
            - Social Support: :green[Stable ({ round( stats_frame['Social support']['std'], 4) })]
-           - Freedom: :green[Stable (0.1388)]
-           - 
+           - Freedom: :green[Stable ( { round( stats_frame['Freedom to make life choices']['std'], 4) })]
+           - Generosity: :green[Stable ( {round( stats_frame['Generosity']['std'], 4) })]
+           - Perceptions of curruption: :green[Stable ( { round( stats_frame['Perceptions of corruption']['std'], 4 ) } )]
+           
 
-    """) 
+    """) #type: ignore
+
+    
