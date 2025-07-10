@@ -1,4 +1,4 @@
 streamlit
-sckit-learn
+scikit-learn
 pandas
 plotly
