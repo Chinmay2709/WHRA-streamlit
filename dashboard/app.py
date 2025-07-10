@@ -1,6 +1,3 @@
-
-from altair import Data
-from plotly.graph_objs import Font
 import streamlit as st
 import pandas as pd
 import plotly.express as px
