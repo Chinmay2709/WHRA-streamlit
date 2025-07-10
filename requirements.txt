@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 streamlit
 sckit-learn
 pandas
 plotly
+=======
+Streamlit
+pandas
+plotly
+scikit-learn
+numpy
+>>>>>>> 0bbf594 (Update Changes)
